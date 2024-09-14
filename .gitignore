@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+zig-cache
+.zig-cache
+zig-out
+data
+notes
+control
